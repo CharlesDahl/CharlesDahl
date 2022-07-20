@@ -1,7 +1,7 @@
 Hello there, I’m @CharlesDahl (15 y/o) 👋
 
 - Currently I'm mainly working in C++ 🤓
-- I also program in Python when I have to (not a fan of snakes 🐍)
+- I also program in Python 🐍
 - I'm learning advanced topics in C++, data structures and algorithms 👨‍💻
 - I'm interested in all kinds of things like web development, game development 🎮, databases, desktop applications...
 - This summer 🌞 I got an internship where I'm coding projects in Python and having a blast 💥
